@@ -32,3 +32,7 @@ test("soma de 'A' e 3 é igual a Caractere inválido",()=>{
 test('soma 999999999 e 999999999',()=>{
     expect(somar(999999999,999999999)).toBe(1999999998)
 })
+// caso 9 soma de dois numeros inteiros 
+test('soma de "1" e "2" igual a 3',()=>{
+    expect(somar("1","2")).toBe(3)
+})

@@ -1,7 +1,7 @@
 {
-  "name": "atv-guto-json",
+  "name": "c",
   "version": "1.0.0",
-  "description": "",
+  "description": "atividade do guto com json, caso de testes",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +11,6 @@
   "dependencies": {
     "jest": "^29.7.0",
     "save-dev": "^0.0.1-security"
-  }
+  },
+  "devDependencies": {}
 }
